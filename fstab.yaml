@@ -1,3 +1,5 @@
+# To need to link the repository to your AEM authoring instance
+# https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
 mountpoints:
   /:
   url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/meetshishir-bit/shishir-eds1/main
