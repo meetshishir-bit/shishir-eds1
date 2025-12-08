@@ -2,6 +2,6 @@
 # https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
 mountpoints:
   /:
-  url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/meetshishir-bit/shishir-eds1/main
-  type: "markup"
+  url: https://adobe.sharepoint.com/sites/shishir-eds/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fshishir%2Deds%2FShared%20Documents%2Fdemo%2Dsite%2Ftraining&viewid=a0f5b86f%2D9c22%2D44d8%2D9be6%2D6d7dca8574f5
+  type: "markup"  
   suffix: ".html"
