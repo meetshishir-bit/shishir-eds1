@@ -1,7 +1,2 @@
-# To need to link the repository to your AEM authoring instance
-# https://<aem-author>/bin/franklin.delivery/<owner>/<repository>/main
-mountpoints:
-  /:
-  url: https://adobe.sharepoint.com/sites/shishir-eds/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fshishir%2Deds%2FShared%20Documents%2Fdemo%2Dsite%2Ftraining&viewid=a0f5b86f%2D9c22%2D44d8%2D9be6%2D6d7dca8574f5
-  type: "markup"  
-  suffix: ".html"
+ mountpoints:
+  /: https://drive.google.com/drive/folders/1VHDLUm-Gq3ZUPuZ6pYAW9060MVe8u_2U
